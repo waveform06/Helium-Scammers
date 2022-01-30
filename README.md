@@ -1,5 +1,5 @@
 # Helium-Scammers
-List of scammers of various types targeting Helium users and owners
+List of scammers of various types targeting Helium users and owners. Scams and fishing
 
 |Url                                                                       |Name                                                    |Type           |Official                                                                   |Update|
 |--------------------------------------------------------------------------|--------------------------------------------------------|---------------|---------------------------------------------------------------------------|------|
